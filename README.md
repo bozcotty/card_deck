@@ -6,8 +6,6 @@ This exercise involved modeling a deck of cards. First I created a card object w
 
 Feature tests were run to check that cards had a rank and suit, and that the new card_array created by the Deck class in deck_spec.rb had 52 cards in it.
 
-
-#
 ## Authors
 
 * Scott Hale (bozcotty)

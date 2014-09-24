@@ -1,5 +1,5 @@
 class Card
-  #a card has two attributes, suit and rank
+  # a card has two attributes, suit and rank
   attr_accessor :suit, :rank
 
   def initialize(suit, rank)
